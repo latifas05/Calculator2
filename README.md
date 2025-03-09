@@ -1,4 +1,4 @@
-# Console-Based Calculator
+# Calculator
 
 ## Overview
 This is a console-based calculator that supports basic arithmetic operations and additional mathematical functions.
